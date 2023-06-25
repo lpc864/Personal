@@ -1,0 +1,22 @@
+package dynamic_programming;
+
+import additional.Grafo;
+
+public class BellmanFord {
+	
+	
+	public static <Vertice extends Comparable<Vertice>> String getBellmanFord (Grafo<Vertice> grafo, Vertice vertice) {
+		return null;
+	}
+	
+	
+package dynamic_programming;
+
+import additional.Grafo;
+
+public class BellmanFord<Vertice extends Comparable<Vertice>> {
+	
+	public String getBellmanFord (Grafo<Vertice> grafo, Vertice vertice) {
+		return null;
+	}
+}

@@ -1,0 +1,22 @@
+Algoritmos elaborados junto a su correspondencia a lo que ha realizado el profesor
+-----------------------------------------------------------------------------------
+
+1. Search_Max_Min_Iterative      = MinMaxIterative
+2. Search_Max_Min_DyV            = MinMaxRecursive
+3. SelectionProblem_Sorting      = No existe uno que sea similar en su totalidad
+4. SelectionProblem_UsingPivot   = QuickSelect    (El que he realizado es fiel a la literatura debido a que es iterativo)
+5. SelectionProblem_DyV          = Seleccion     
+6. SelectionProblem_DyV_Improved = SelectImproved
+5. QuickSort                     = QuickSort
+
+Algoritmos elaborados por cuenta propia
+---------------------------------------
+
+1. Mediana
+
+
+Preguntas
+----------
+
+1. SelectionProblem_DyV que he realizado, ¿sigue el patron de DyV? 
+2. No entiendo el caso base de seleccion... No le veo sentido
